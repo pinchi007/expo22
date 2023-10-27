@@ -6,6 +6,8 @@ import 'package:image_picker/image_picker.dart';
 
 import 'image_view_screen.dart';
 
+//configuracion de image picker
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen();
 
