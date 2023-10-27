@@ -1,6 +1,7 @@
 import 'package:expos22/src/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
+//configuracion de myapp
 class MyApp extends StatelessWidget {
   const MyApp();
 
