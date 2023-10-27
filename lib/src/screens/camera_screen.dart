@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 
+//agregando las funciones para camera
+
 class CameraScreen extends StatefulWidget {
   CameraScreen({Key? key}) : super(key: key);
 
